@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarun Chandra Das</h1>
+<h1 align="center">Hey 👋, I'm Tarun Chandra Das</h1>
 <h3 align="center">A passionate cse student from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0tarun&label=Profile%20views&color=0e75b6&style=flat" alt="0tarun" /> </p>
